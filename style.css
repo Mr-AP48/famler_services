@@ -1,0 +1,51 @@
+body {
+    background-color: darkgray;
+}
+
+#web_title {
+    font-weight: bolder;
+    font-style:initial;
+}
+
+#menu {
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;    
+}
+
+#btn_services {
+    background-color: aquamarine;
+    font-size: larger;
+    height: 50px;
+    width: 100px
+}
+
+#btn_aboutUs {
+    background-color: aquamarine;
+    font-size: larger;
+    height: 50px;
+    width: 100px
+}
+
+#btn_contactUs {
+    background-color: aquamarine;
+    font-size: larger;
+    height: 50px;
+    width: 100px
+}
+
+#about_us_para {
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+}
+
+#services_label {
+    font-size: medium
+}
+
+#services_div {
+    background-color: rgb(247, 179, 155);
+}
